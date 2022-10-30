@@ -1,0 +1,44 @@
+class AppConfig {
+  static const String email = "email";
+  static const String send = "send";
+  static const String forgetPassword = "forgetPassword";
+  static const String password = "password";
+  static const String login = "login";
+  static const String tabScreen = "tabScreen";
+  static const String cartScreen = "/cartScreen";
+  static const String loading = "loading";
+  static const String signUp = "signUp";
+  static const String firstName = "firstName";
+  static const String lastName = "lastName";
+  static const String phone = "phone";
+  static const String agreeTotermsOfServices = "agreeTotermsOfServices";
+  static const String comfirmPassword = "comfirmPassword";
+  static const String termsOfServices = "termsOfServices";
+  static const String signUpWithEmail = "signUpWithEmail";
+  static const String exitApp = "exitApp";
+  static const String settings = "المزيد";
+  static const String home = "الرئيسية";
+  static const String chat = "chat";
+  static const String language = "language";
+  static const String faq = "faq";
+  static const String logout = "تسجيل الخروج";
+  static const String version = "الاصدار 1.0.0";
+  static const String support = "support";
+  static const String search = "ابحث عن حاجات البيت..";
+  // static const String search = "search your daily grocery food..";
+  static const String privacyPolicy = "سياسة استخدام التطبيق";
+  static const String seeAll = "عرض الكل";
+  static const String category = "الأصناف";
+  static const String discount = "discounts";
+  static const String contactUs = "تواصل معنا";
+  static const String aboutUs = "عن سودانا";
+  static const String popularDeals = "المنتجات";
+  static const String carts = "سلة التسوق";
+  static const String splahScreen = "/splahScreen";
+  static const String aboutAppTitle = "من نحن؟";
+  static const String aputAppDiscreption =
+      "نحن بشر منتجين تجردنا من التقسيمات البغيضة سواء كانت حزبية او عنصرية او سياسة او دينية او ايدلوجية والتي لم تأخذنا الا للدمار والفرقة والأذي .. لدينا خارطة خلافية واضحة هي اساس اجتماعنا وعملنا .. جوهر خارطتنا الاخلاقية الاحسان والتسابق في عمل الخير ورفض الظلم والفساد.";
+  static const String sudannaProject = "مشاريع سودانا";
+  static const String termsAndConditionsAr = "الشروط والاحكام";
+  static const String termsAndConditionsDiscripstion = "الشروط والاحكام";
+}
